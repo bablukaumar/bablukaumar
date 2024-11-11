@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm BABLU SARKAR</h1>
 <h3 align="center">"🔭 I’m currently working on discovering new ways to approach challenges."</h3>
 
-<img align="right" alt="coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
+<img align="center" alt="coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bablukumar&label=Profile%20views&color=0e75b6&style=flat" alt="bablukumar" /> </p>
